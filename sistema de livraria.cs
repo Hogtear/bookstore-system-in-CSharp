@@ -1,4 +1,4 @@
-//Código feito por Paulo Archanjo (Hogtear)
+//Código feito por Paulo Archanjo (Hogtear) e Colegas.
 
 using System;
 using System.IO;
@@ -324,7 +324,7 @@ class Programa
                 Console.ForegroundColor = ConsoleColor.Cyan;
                 Console.WriteLine("\t***SESSÃO DE CADASTRAMENTO***\n");
                 Console.ResetColor();
-                string path = @"C:\vitor\exercicio.txt";
+                string path = @"C:\diretorio\nomes.txt";
               
                 Console.Write("Digite seu nome: ");
                 user.nome = Console.ReadLine();
@@ -493,4 +493,4 @@ class Programa
     }
 }
 
-//Código feito por Paulo Archanjo (Hogtear)
+//Código feito por Paulo Archanjo (Hogtear) e Colegas.
